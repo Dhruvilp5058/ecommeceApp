@@ -6,17 +6,17 @@ Displays product information on the home screen, including image, price, discoun
 Categorizes products and provides a search option in the header
 Opens a product detail screen when a product is touched, displaying product image, price, discount percentage, discount price, rating, reviewer name, and message
 Provides a footer with "Buy Now" and "Add to Cart" buttons. When "Add to Cart" is pressed, the app opens a cart screen displaying added cart items
-Technologies Used
-React Native
-Axios
-React Navigation
-Redux
-React Native Elements
-React Native Vector Icons
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+# Technologies Used
+ React Native
+ Axios
+ React Navigation
+ Redux
+ React Native Elements
+ React Native Vector Icons
+ License
+ This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-Acknowledgments
+# Acknowledgments
 API documentation
 React Native documentation
 Axios documentation
