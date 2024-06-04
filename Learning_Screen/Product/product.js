@@ -1,0 +1,85 @@
+import { images } from "../../assets/image";
+
+export const Product =[
+    {
+        image:images.smartphone,
+        type:'smartphones'
+    },
+    {
+        image:images.laptop,
+        type:'laptops'
+    },
+    {
+        image:images.perfume,
+        type:'fragrances'
+    },
+    {
+        image:images.scincare,
+        type:'skincare'
+    },
+    {
+        image:images.grocery,
+        type:'groceries'
+    },
+    {
+        image:images.homedecor,
+        type:'home-decoration '
+    },
+    {
+        image:images.furniture,
+        type:'furniture'
+    },
+    {
+        image:images.tops,
+        type:'tops '
+    },
+    {
+        image:images.womendress,
+        type:'womens-dresses'
+    },
+    {
+        image:images.womenshoes,
+        type:'womens-shoes'
+    },
+    {
+        image:images.menshirt,
+        type:'mens-shirts'
+    },
+    {
+        image:images.mensshoes,
+        type:'mens-shoes'
+    },
+    {
+        image:images.menswatch,
+        type:'"mens-watches'
+    },
+    {
+        image:images.womenwatch,
+        type:'womens-watches'
+    },
+    {
+        image:images.womenbag,
+        type:'womens-bags'
+    },
+    {
+        image:images.womenjwelaary,
+        type:'womens-jewellery'
+    },
+    {
+        image:images.sunglasses,
+        type:'sunglasses'
+    },
+    {
+        image:images.automotive,
+        type:'automotive'
+    },
+    {
+        image:images.motercyle,
+        type:'motorcycle'
+    },
+    {
+        image:images.lighthing,
+        type:'lighting'
+    },
+
+]
